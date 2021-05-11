@@ -11,115 +11,113 @@ My notes on julia
 
 ### 1.1 micros
 
-#### @enum
+- @enum
 
 ### 1.2 packages
 
-#### JuliaLang
+- [JuliaLang](https://github.com/JuliaLang)
 
-https://github.com/JuliaLang
 
-#### Documenter.jl
 
-https://juliadocs.github.io/Documenter.jl/stable/man/guide/
+- [Documenter.jl](https://juliadocs.github.io/Documenter.jl/stable/man/guide/)
 
-#### JuliaData
 
-https://github.com/JuliaData
 
-#### JuliaStats
+- [JuliaData](https://github.com/JuliaData)
 
-https://github.com/JuliaStats
 
-#### JuliaArrays
 
-https://github.com/JuliaArrays
+- [JuliaStats](https://github.com/JuliaStats)
 
-#### JuliaPlots
 
-https://github.com/JuliaPlots
 
-#### JuliaCollections
+- [JuliaArrays](https://github.com/JuliaArrays)
 
-https://github.com/JuliaCollections
 
-#### EChart.jl
 
-https://randyzwitch.com/ECharts.jl/
+- [JuliaPlots](https://github.com/JuliaPlots)
 
-#### BioJulia
 
-https://github.com/BioJulia
+
+- [JuliaCollections](https://github.com/JuliaCollections)
+
+
+
+- [EChart.jl](https://randyzwitch.com/ECharts.jl/)
+
+
+
+- [BioJulia](https://github.com/BioJulia)
+
+
 
 **must learn!**
 
-#### gadflyjl
+- [gadflyjl](http://gadflyjl.org/stable/)
 
-http://gadflyjl.org/stable/
 
-#### Weave.jl
 
-https://github.com/JunoLab/Weave.jl
+- [Weave.jl](https://github.com/JunoLab/Weave.jl)
 
-#### JuliaPackaging
 
-https://github.com/JuliaPackaging
 
-#### JuliaIO
+- [JuliaPackaging](https://github.com/JuliaPackaging)
 
-https://github.com/JuliaIO
 
-#### VariantVisualization.jl
 
-https://github.com/compbiocore/VariantVisualization.jl
+- [JuliaIO](https://github.com/JuliaIO)
 
-#### OpenMendel
 
-https://github.com/OpenMendel
 
-#### JuliaGraph
+- [VariantVisualization.jl](https://github.com/compbiocore/VariantVisualization.jl)
 
-https://github.com/JuliaGraphics
 
-##### Luxor.jl
 
-https://github.com/JuliaGraphics/Luxor.jl
+- [OpenMendel](https://github.com/OpenMendel)
 
-#### Dash.jl and Plotly.jl
 
-优先级不如EChart
 
-make a better interactive plot!!
+- [JuliaGraph](https://github.com/JuliaGraphics)
 
-https://github.com/plotly/Dash.jl
 
-https://github.com/plotly/Plotly.jl
 
-https://github.com/plotly/plotlyjs.jl-docs
+#- [Luxor.jl](https://github.com/JuliaGraphics/Luxor.jl)
 
-#### FilePathsBase.jl
 
-https://rofinn.github.io/FilePathsBase.jl/stable/
 
-#### JuliaWeb
+- Dash.jl and Plotly.jl
 
-https://github.com/JuliaWeb
+    make a better interactive plot!!
 
-#### JuliaDatabases
+    https://github.com/plotly/Dash.jl
 
-https://github.com/JuliaDatabases
+    https://github.com/plotly/Plotly.jl
 
-#### JuliaGPU
+    https://github.com/plotly/plotlyjs.jl-docs
 
-https://github.com/JuliaGPU
+- [FilePathsBase.jl](https://rofinn.github.io/FilePathsBase.jl/stable/)
 
-#### JuliaParallel
 
-https://github.com/JuliaParallel
 
-#### kaleido.jl
+- [JuliaWeb](https://github.com/JuliaWeb)
 
-what is it?
+
+
+- [JuliaDatabases](https://github.com/JuliaDatabases)
+
+
+
+- [JuliaGPU](https://github.com/JuliaGPU)
+
+
+
+- [JuliaParallel](https://github.com/JuliaParallel)
+
+
+
+- kaleido.jl :what is it?
+
+
 
 
 
