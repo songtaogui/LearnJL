@@ -81,7 +81,7 @@ My notes on julia
 
 
 
-#- [Luxor.jl](https://github.com/JuliaGraphics/Luxor.jl)
+- [Luxor.jl](https://github.com/JuliaGraphics/Luxor.jl)
 
 
 
